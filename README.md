@@ -24,7 +24,7 @@ Project created by <a href="https://github.com/Amal-ser">Muxic-mediaBot</a> to m
 
 ## Click Youtube logo to Watch full video and findout password in this video 👇
 
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/Tb1B-rS52uo)
+ [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)]
 
 
 ## Instagram  Follow ❤️
