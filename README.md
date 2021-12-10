@@ -34,37 +34,37 @@ https://instagram.com/muxic_media?utm_medium=copy_link
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Amal-ser/Amalser.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Muxic-mediaBot/MXD_BOT)
 
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@NIHAD🖤/NIHAD🖤)
   
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Amal-ser/Amalser
-$ cd Amalser
+$ git clone https://github.com/muxic-mediaBot/MXD_BOT
+$ cd MXD_BOT
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node Amalser.js
+$ node MXD_BOT.js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/Amal-ser/Amalser
-$ cd Amalser
+$ git clone https://github.com/muxic-mediaBot/MXD_BOT
+$ cd MXD_BOT
 $ npm i
-$ node Amalser.js
+$ node MXD_BOT.js
 ```
 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Amal-ser/Amalser">
+  <a href="https://github.com/muxic-mediaBot/MXD_BOT">
     
 <a href="https://github.com/Amal-ser/followers">
 <img src="https://img.shields.io/github/repo-size/Amal-ser/Amalser?color=green&label=Repo%20total%20size&style=plastic">
